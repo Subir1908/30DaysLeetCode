@@ -1,6 +1,8 @@
 # 30DaysLeetCode
 This is a synced repo with leetcode for a 30 day leetcode problem solving challenge
+
 **Days 1–10 (Arrays + Hashing)**
+
 1. Two Sum
 2. Contains Duplicate
 3. Valid Anagram
@@ -11,26 +13,32 @@ This is a synced repo with leetcode for a 30 day leetcode problem solving challe
 8. Best Time to Buy and Sell Stock
 9. Missing Number
 10. Find the Difference
+
 **Days 11–20 (Strings + Two Pointers)**
-11. Reverse String
-12. Valid Palindrome
-13. Length of Last Word
-14. Longest Common Prefix
-15. Merge Strings Alternately
-16. Reverse Vowels of a String
-17. Is Subsequence
-18. Find the Index of the First Occurrence
-19. Reverse Words in a String III
-20. First Unique Character in a String
+
+12. Reverse String
+13. Valid Palindrome
+14. Length of Last Word
+15. Longest Common Prefix
+16. Merge Strings Alternately
+17. Reverse Vowels of a String
+18. Is Subsequence
+19. Find the Index of the First Occurrence
+20. Reverse Words in a String III
+21. First Unique Character in a String
+
 **Days 21–25 (Binary Search + Easy Math)**
-21. Binary Search
-22. Search Insert Position
-23. Sqrt(x)
-24. Climbing Stairs
-25. Plus One
+
+22. Binary Search
+23. Search Insert Position
+24. Sqrt(x)
+25. Climbing Stairs
+26. Plus One
+
 **Days 26–30 (Stack + Basic Recursion)**
-26. Valid Parentheses
-27. Baseball Game
-28. Fibonacci Number
-29. Power of Two
-30. Maximum Depth of Binary Tree
+
+28. Valid Parentheses
+29. Baseball Game
+30. Fibonacci Number
+31. Power of Two
+32. Maximum Depth of Binary Tree
